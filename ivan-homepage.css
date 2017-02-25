@@ -14,20 +14,20 @@ div {
 }
 
 h1 {
-  color: white;
+  color: white !important;
   font-size: 6em;
 }
 
 h2 {
-  color: white;
+  color: white !important;
 }
 
 h3 {
-  color: white;
+  color: white !important;
 }
 
 p {
-  color: white;
+  color: white !important;
 }
 
 li {
